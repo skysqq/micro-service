@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-demo01/eureka-demo01.iml" filepath="$PROJECT_DIR$/eureka-demo01/eureka-demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-demo02/eureka-demo02.iml" filepath="$PROJECT_DIR$/eureka-demo02/eureka-demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp_rpc/okhttp_rpc.iml" filepath="$PROJECT_DIR$/okhttp_rpc/okhttp_rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service-demo/user-service-demo.iml" filepath="$PROJECT_DIR$/user-service-demo/user-service-demo.iml" />
+    </modules>
+  </component>
+</project>
